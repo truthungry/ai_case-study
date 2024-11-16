@@ -1,6 +1,6 @@
 #               NEAR Protocol: Pioneering AI-Driven Decentralization
 ### Overview and Origin
-#### Initially founded in 2017 as NEAR.ai by Illia Polosukhin and Alexander Skidanov, initially as NEAR.ai. Polosukhin, a co-author of the foundational AI research paper "Attention is All You Need," leveraged his expertise to design a scalable blockchain solution. Recognizing Etherium's limitations, NEAR launched its blockchain in April 2020, setting new standards for efficiency and decentralization.
+#### Initially founded as NEAR.ai in 2017 by Illia Polosukhin and Alexander Skidanov. Polosukhin, a co-author of the foundational AI research paper "Attention is All You Need," leveraged his expertise to design a scalable blockchain solution. Recognizing Etherium's limitations, NEAR launched its blockchain in April 2020, setting new standards for efficiency and decentralization. [1]
 
 ### Funding and Monetization
 
@@ -16,7 +16,7 @@
 
 ### Solutions and Innovations
 
-#### NEAR is building the world's largest open-source AI model (1.4 trillion parameters) and integrates the transformative Transformer architecture to enhance applications such as machine translation, text summarization, and intelligent decision-making. By combining AI and blockchain, NEAR empowers developers and users with cutting-edge capabilities.
+#### NEAR is building the world's largest open-source AI model (1.4 trillion parameters[2]) and integrates the transformative Transformer architecture to enhance applications such as machine translation, text summarization, and intelligent decision-making. By combining AI and blockchain, NEAR empowers developers and users with cutting-edge capabilities.
 
 ### NEAR and Decentralized AI Trends
 
@@ -34,7 +34,7 @@
 
 ### Key Metrics
 
-#### NEAR surpasses competitors in daily transactions and active addresses, with a market cap of $5.5 billion. Its emphasis on user-owned AI technologies positions it as a leader in blockchain innovation. 
+#### NEAR surpasses competitors in daily transactions and active addresses, with a market cap of $5.5 billion. Its emphasis on user-owned AI technologies positions it as a leader in blockchain innovation. Price Chart: https://messari.io/project/near-protocol/price-chart
 
 ### Recommendations
 
@@ -43,3 +43,11 @@
     Leveraging predictive analytics, personalized recommendations, and risk assessments to aid crypto traders. 
 
 This innovation would help NEAR continue to expand the possibilities of advanced AI models, blockchain interoperability, and secure decentralized infrastructures to drive adoption and growth. 
+
+
+
+
+### References:
+1. https://messari.io/project/near-protocol/profile 
+2. https://cointelegraph.com/news/near-plans-to-create-world-s-largest-1-4-t-parameter-open-source-ai-model
+3. https://messari.io/project/near-protocol/price-chart
