@@ -1,4 +1,5 @@
 #                                          NEAR Protocol: Pioneering AI-Driven Decentralization
+### An AI Case Study by Sheila Mathews
 ![NEAR Logo](image.png)
 
 ### **Overview and Origin**
