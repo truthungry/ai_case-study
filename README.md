@@ -1,24 +1,24 @@
 #               NEAR Protocol: Pioneering AI-Driven Decentralization
-### Overview and Origin
+### **Overview and Origin**
 #### Initially founded as NEAR.ai in 2017 by Illia Polosukhin and Alexander Skidanov. Polosukhin, a co-author of the foundational AI research paper "Attention is All You Need," leveraged his expertise to design a scalable blockchain solution. Recognizing Etherium's limitations, NEAR launched its blockchain in April 2020, setting new standards for efficiency and decentralization. [1]
 
-### Funding and Monetization
+### **Funding and Monetization**
 
 #### To fund its ambitious AI integration, NEAR relies on proceeds from its native cryptocurrency, NEAR tokens. This model aligns investor returns with the platform's growth, fostering a sustainable ecosystem that supports continuous innovation.
 
-### Addressing Blockchain Challenges
+### **Addressing Blockchain Challenges**
 
 #### NEAR tackles blockchain's "trilemma" of security, scalability, and decentralization through its innovative sharding protocol, Nightshade. This enables high throughput, low fees, and robust security, making it ideal for decentralized AI applications. 
 
-### Target Audience
+### **Target Audience**
 
-#### Neear serves developers, enterprises, and organizations seeking scalable blockchain solutions. With a user-friendly design, low fees, and comprehensive developer tools, it appeals to those building in Web3, DeFi, and AI-powered ecosystems. Its rapidly growing developer community reflects its success in fostering innovation. 
+#### NEAR serves developers, enterprises, and organizations seeking scalable blockchain solutions. With a user-friendly design, low fees, and comprehensive developer tools, it appeals to those building in Web3, DeFi, and AI-powered ecosystems. Its rapidly growing developer community reflects its success in fostering innovation. 
 
-### Solutions and Innovations
+### **Solutions and Innovations**
 
 #### NEAR is building the world's largest open-source AI model (1.4 trillion parameters[2]) and integrates the transformative Transformer architecture to enhance applications such as machine translation, text summarization, and intelligent decision-making. By combining AI and blockchain, NEAR empowers developers and users with cutting-edge capabilities.
 
-### NEAR and Decentralized AI Trends
+### **NEAR and Decentralized AI Trends**
 
 #### NEAR's initiatives align with broader industry trends, including:
 * Generative AI in Blockchain: Automating processes and enhancing user experiences in DeFi and gaming.
@@ -30,7 +30,7 @@
 
 ### Business Impact:
 
-#### Near's integrations of AI into blockchain fosters decentralized AI development, demonstrated by tools like the NEAR.AI Assistant. This cross-chain agent supports diverse tasks, from launching tokens to future functionalities like booking flights and ordering food. 
+#### Near's integrations of AI into blockchain fosters decentralized AI development, demonstrated by tools like the NEAR.AI Assistant. This cross-chain agent supports diverse tasks, from launching tokens to future functionalities like booking flights and ordering food. Recently at GTC, Nvidia CEO, Jensen huang, said “Everything that we’re enjoying today can be traced back to that moment,” Huang said to a packed room with hundreds of attendees, who heard him speak with the authors of “Attention Is All You Need.” (3)
 
 ### Key Metrics
 
@@ -50,4 +50,4 @@ This innovation would help NEAR continue to expand the possibilities of advanced
 ### References:
 1. https://messari.io/project/near-protocol/profile 
 2. https://cointelegraph.com/news/near-plans-to-create-world-s-largest-1-4-t-parameter-open-source-ai-model
-3. https://messari.io/project/near-protocol/price-chart
+3. https://blogs.nvidia.com/blog/gtc-2024-transformer-ai-research-panel-jensen/
