@@ -1,5 +1,5 @@
 #               NEAR Protocol: Pioneering AI-Driven Decentralization
-## Overview and Origin
+### Overview and Origin
 #### NEAR Protocol was founded in 2017 by Illia Polosukhin and Alexander Skidanov, initially as NEAR.ai. Polosukhin, a co-author of the foundational AI research paper "Attention is All You Need," leveraged his expertise to design a scalable blockchain solution. Recognizing Etherium's limitations, NEAR launched its blockchain in April 2020, setting new standards for efficiency and decentralization.
 
 ### Funding and Monetization
@@ -21,12 +21,12 @@
 ### NEAR and Decentralized AI Trends
 
 #### NEAR's initiatives align with broader industry trends, including:
-    1. Generative AI in Blockchain: Automating processes and enhancing user experiences in DeFi and gaming.
-    2. AI-Powered Smart Contracts: Enabling predictive analytics and adaptive contract execution.
-    3. Decentralized AI Networks: Reducing reliance on centralized infrastructures.
-    4. Cross-Chain Interoperability: Facilitating seamless interactions across blockchains.
-    5. AI for Market Predictions: Optimizing cryptocurrency portfolio strategies. 
-    6. Enhanced Security and Scalability: Identifying vulnerabilities and improving transaction speeds.
+* Generative AI in Blockchain: Automating processes and enhancing user experiences in DeFi and gaming.
+* AI-Powered Smart Contracts: Enabling predictive analytics and adaptive contract execution.
+* Decentralized AI Networks: Reducing reliance on centralized infrastructures.
+* Cross-Chain Interoperability: Facilitating seamless interactions across blockchains.
+* AI for Market Predictions: Optimizing cryptocurrency portfolio strategies. 
+* Enhanced Security and Scalability: Identifying vulnerabilities and improving transaction speeds.
 
 ### Business Impact:
 
