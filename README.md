@@ -1,7 +1,4 @@
-## ai_case-study
-## Module One Challenge
-
-# NEAR Protocol: Pioneering AI-Driven Decentralization
+#               NEAR Protocol: Pioneering AI-Driven Decentralization
 ## Overview and Origin
 #### NEAR Protocol was founded in 2017 by Illia Polosukhin and Alexander Skidanov, initially as NEAR.ai. Polosukhin, a co-author of the foundational AI research paper "Attention is All You Need," leveraged his expertise to design a scalable blockchain solution. Recognizing Etherium's limitations, NEAR launched its blockchain in April 2020, setting new standards for efficiency and decentralization.
 
@@ -42,8 +39,7 @@
 ### Recommendations
 
 #### To expand its reach, NEAR could consider:
-* AI-Powered Trading Assistant: Leveraging predictive analytics, personalized recommendations, and risk assessments to aid crypto traders.
+* Create an AI-Powered Trading Platform to compliment its AI-Powered Assistant
+    Leveraging predictive analytics, personalized recommendations, and risk assessments to aid crypto traders. 
 
-* Decentralized AI Marketplaces: Enabling collaboration among developers and businesses. 
-
-These innovations would utilize advanced AI models, blockchain interoperability, and secure decentralized infrastructures to drive adoption and growth. 
+This innovation would help NEAR continue to expand the possibilities of advanced AI models, blockchain interoperability, and secure decentralized infrastructures to drive adoption and growth. 
